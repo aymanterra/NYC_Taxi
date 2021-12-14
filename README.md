@@ -27,4 +27,3 @@ We need to compute:
 1. The average time it takes for a taxi to find its next fare(trip) per destination borough,
 2. The number of trips that started and ended within the same borough,
 3. The number of trips that start in one borough and ended in another one
-4. 
